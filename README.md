@@ -26,4 +26,9 @@ Ans: Heap pollution occurs when a variable of a parameterized type refers to an
 
 Note: Effect of heap pollution is classcastexception at runtime.
 
+6)What is GNU Make?<br>
+Ans:In software development, Make is a build automation tool that automatically builds executable programs and libraries from source code by reading files called Makefiles which specify how to derive the target program. Though integrated development environments and language-specific compiler features can also be used to manage a build process, Make remains widely used, especially in Unix and Unix-like operating systems.
 
+'make' refers to the system's default make implementation; on most Linux distros this is GNU make, but on other unixes, it could refer to some other implementation of make, such as BSD make.
+
+Note:The language accepted by GNU make is a superset of the one supported by the traditional make utility.
