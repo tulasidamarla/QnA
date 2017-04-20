@@ -32,3 +32,6 @@ Ans:In software development, Make is a build automation tool that automatically 
 'make' refers to the system's default make implementation; on most Linux distros this is GNU make, but on other unixes, it could refer to some other implementation of make, such as BSD make.
 
 Note:The language accepted by GNU make is a superset of the one supported by the traditional make utility.
+
+7)what is the difference between slf4j and log4j?<br>
+Ans:SLF4j is only a logging API/interface, it does not directly replace log4j which is a complete logging framework.
