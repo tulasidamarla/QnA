@@ -37,7 +37,7 @@ Note:The language accepted by GNU make is a superset of the one supported by the
 Ans:SLF4j is only a logging API/interface, it does not directly replace log4j which is a complete logging framework.
 
 8)what is the difference between SOA and microservices?
-Ans:
-SOA is about integrating various enterprise applications, where as microservices are mainly about decomposing single applications.
-SOA relies on archestration, Microservices rely on choreography.
+Ans:<br>
+SOA is about integrating various enterprise applications, where as microservices are mainly about decomposing single applications.<br>
+SOA relies on archestration, Microservices rely on choreography.<br>
 SOA rely on smart integration and dumb services where as microservice rely on smart services and dumb integration technology.
